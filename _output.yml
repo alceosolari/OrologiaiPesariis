@@ -5,7 +5,7 @@ bookdown::gitbook:
     toc:
       collapse: subsection
       before: |
-        <li><a href="./">La tradizione plurisecolare degli orologiai di Pesariis</a></li>
+        <li><a href="./">Il libro di Alceo</a></li>
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

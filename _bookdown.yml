@@ -1,7 +1,7 @@
-book_filename: "La tradizione plurisecolare degli orologiai di Pesariis"
+book_filename: "libroalceo"
 chapter_name: "Capitolo "
 repo: https://github.com/alceosolari
 output_dir: docs
-rmd_files: ["index.Rmd", "01-capitolo1.Rmd", "02-capitolo2.Rmd"]
+rmd_files: ["index.Rmd", "01-capitolo1.Rmd", "02-capitolo2.Rmd", "03-capitolo3.Rmd", "04-capitolo4.Rmd", "05-capitolo5.Rmd", "06-capitolo6.Rmd", "07-capitolo7.Rmd", "08-capitolo8.Rmd", "09-capitolo9.Rmd", "10-capitolo10.Rmd", "11-capitolo11.Rmd", "12-capitolo12.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
